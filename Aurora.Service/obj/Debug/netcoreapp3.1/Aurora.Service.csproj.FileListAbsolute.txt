@@ -1,0 +1,16 @@
+D:\Cursos\aurora-api-project-master\Aurora.Service\bin\Debug\netcoreapp3.1\Aurora.Service.deps.json
+D:\Cursos\aurora-api-project-master\Aurora.Service\bin\Debug\netcoreapp3.1\Aurora.Service.dll
+D:\Cursos\aurora-api-project-master\Aurora.Service\bin\Debug\netcoreapp3.1\Aurora.Service.pdb
+D:\Cursos\aurora-api-project-master\Aurora.Service\bin\Debug\netcoreapp3.1\Aurora.Domain.dll
+D:\Cursos\aurora-api-project-master\Aurora.Service\bin\Debug\netcoreapp3.1\Aurora.Infra.Data.dll
+D:\Cursos\aurora-api-project-master\Aurora.Service\bin\Debug\netcoreapp3.1\Infra.Shared.dll
+D:\Cursos\aurora-api-project-master\Aurora.Service\bin\Debug\netcoreapp3.1\Aurora.Domain.pdb
+D:\Cursos\aurora-api-project-master\Aurora.Service\bin\Debug\netcoreapp3.1\Aurora.Infra.Data.pdb
+D:\Cursos\aurora-api-project-master\Aurora.Service\bin\Debug\netcoreapp3.1\Infra.Shared.pdb
+D:\Cursos\aurora-api-project-master\Aurora.Service\obj\Debug\netcoreapp3.1\Aurora.Service.csprojAssemblyReference.cache
+D:\Cursos\aurora-api-project-master\Aurora.Service\obj\Debug\netcoreapp3.1\Aurora.Service.AssemblyInfoInputs.cache
+D:\Cursos\aurora-api-project-master\Aurora.Service\obj\Debug\netcoreapp3.1\Aurora.Service.AssemblyInfo.cs
+D:\Cursos\aurora-api-project-master\Aurora.Service\obj\Debug\netcoreapp3.1\Aurora.Service.csproj.CoreCompileInputs.cache
+D:\Cursos\aurora-api-project-master\Aurora.Service\obj\Debug\netcoreapp3.1\Aurora.Service.csproj.CopyComplete
+D:\Cursos\aurora-api-project-master\Aurora.Service\obj\Debug\netcoreapp3.1\Aurora.Service.dll
+D:\Cursos\aurora-api-project-master\Aurora.Service\obj\Debug\netcoreapp3.1\Aurora.Service.pdb

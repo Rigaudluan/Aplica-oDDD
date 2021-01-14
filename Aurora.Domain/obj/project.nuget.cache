@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YrsmI/yqFWhIu6in9IVzFOYwOVjNrNlkAmaxE0miDbK9qPWA1alrJFXT34OscxeyaX0o952jquDQPWO7PYMRhQ==",
+  "success": true,
+  "projectFilePath": "D:\\Cursos\\aurora-api-project-master\\Aurora.Domain\\Aurora.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mathe\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

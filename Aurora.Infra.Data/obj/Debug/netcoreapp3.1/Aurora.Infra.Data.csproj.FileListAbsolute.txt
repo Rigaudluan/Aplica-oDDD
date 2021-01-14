@@ -1,0 +1,15 @@
+D:\Cursos\aurora-api-project-master\Aurora.Infra.Data\bin\Debug\netcoreapp3.1\Aurora.Infra.Data.deps.json
+D:\Cursos\aurora-api-project-master\Aurora.Infra.Data\bin\Debug\netcoreapp3.1\Aurora.Infra.Data.runtimeconfig.json
+D:\Cursos\aurora-api-project-master\Aurora.Infra.Data\bin\Debug\netcoreapp3.1\Aurora.Infra.Data.runtimeconfig.dev.json
+D:\Cursos\aurora-api-project-master\Aurora.Infra.Data\bin\Debug\netcoreapp3.1\Aurora.Infra.Data.dll
+D:\Cursos\aurora-api-project-master\Aurora.Infra.Data\bin\Debug\netcoreapp3.1\Aurora.Infra.Data.pdb
+D:\Cursos\aurora-api-project-master\Aurora.Infra.Data\bin\Debug\netcoreapp3.1\Aurora.Domain.dll
+D:\Cursos\aurora-api-project-master\Aurora.Infra.Data\bin\Debug\netcoreapp3.1\Aurora.Domain.pdb
+D:\Cursos\aurora-api-project-master\Aurora.Infra.Data\obj\Debug\netcoreapp3.1\Aurora.Infra.Data.csprojAssemblyReference.cache
+D:\Cursos\aurora-api-project-master\Aurora.Infra.Data\obj\Debug\netcoreapp3.1\Aurora.Infra.Data.AssemblyInfoInputs.cache
+D:\Cursos\aurora-api-project-master\Aurora.Infra.Data\obj\Debug\netcoreapp3.1\Aurora.Infra.Data.AssemblyInfo.cs
+D:\Cursos\aurora-api-project-master\Aurora.Infra.Data\obj\Debug\netcoreapp3.1\Aurora.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Cursos\aurora-api-project-master\Aurora.Infra.Data\obj\Debug\netcoreapp3.1\Aurora.Infra.Data.csproj.CopyComplete
+D:\Cursos\aurora-api-project-master\Aurora.Infra.Data\obj\Debug\netcoreapp3.1\Aurora.Infra.Data.dll
+D:\Cursos\aurora-api-project-master\Aurora.Infra.Data\obj\Debug\netcoreapp3.1\Aurora.Infra.Data.pdb
+D:\Cursos\aurora-api-project-master\Aurora.Infra.Data\obj\Debug\netcoreapp3.1\Aurora.Infra.Data.genruntimeconfig.cache
